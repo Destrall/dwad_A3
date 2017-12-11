@@ -1,16 +1,16 @@
 {
   "Market": [
     {
-      "Name": 1,
-      "Price": "Post 1"
+      "Name": "Death Sticks",
+      "Price": "666"
     },
     {
-      "Name": 2,
-      "Price": "Post 2"
+      "Name": "Tuk'ata Bone",
+      "Price": "246"
     },
     {
-      "Name": 3,
-      "Price": "Post 3"
+      "Name": "Exterminator's Armor Set",
+      "Price": "15000"
     }
   ]
   
