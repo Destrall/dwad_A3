@@ -1,15 +1,15 @@
 {
-  "Market"
-    {
-      "Name": "Death Sticks",
-      "Price": "666"
-    },
-    {
-      "Name": "Tuk'ata Bone",
-      "Price": "246"
-    },
-    {
-      "Name": "Exterminator's Armor Set",
-      "Price": "15000"
-    }
-  
+    "ItemName": "Tuk'ata Bone",
+    "Seller": "raizen",
+    "Price": 23523,
+}
+{
+    "ItemName": "Advanced Endurance Stim",
+    "Seller": "Malgus",
+    "Price": 577234,
+}
+{
+    "ItemName": "Unstable Arbiter's Lightsaber",
+    "Seller": "Satele",
+    "Price": 13535796,
+}
