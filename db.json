@@ -1,0 +1,15 @@
+{
+  "Market": [
+    {
+      "Name": 1,
+      "Price": "Post 1"
+    },
+    {
+      "Name": 2,
+      "Price": "Post 2"
+    },
+    {
+      "Name": 3,
+      "Price": "Post 3"
+    }
+  ]
