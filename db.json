@@ -1,5 +1,5 @@
 {
-  "Market": [
+  "Market"
     {
       "Name": "Death Sticks",
       "Price": "666"
@@ -12,5 +12,4 @@
       "Name": "Exterminator's Armor Set",
       "Price": "15000"
     }
-  ]
   
